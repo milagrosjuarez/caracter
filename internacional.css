@@ -1,0 +1,75 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.logo {
+  text-align: center;
+}
+
+header {
+  background-color: #a9a9a9;
+}
+
+.menu-principal {
+  margin: 0;
+  padding: 0;
+  background-color: #d9d9d9;
+}
+
+.menu-principal li {
+  display: inline-block;
+  padding: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.Israel{
+  border-right: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  margin: 10px 0;
+  height: auto;
+}
+
+.Israel img{
+  float: right;
+}
+
+.Israel p{
+  text-align: left;
+}
+
+.Suscribite {
+  background-color: black;
+}
+.Suscribite p1{
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+}
+.Suscribite p{
+  color: white;
+  font-weight: lighter;
+}
+footer{
+  background-color: #a9a9a9;
+}
+.secciones-footer p{
+  font-weight: bolder;
+}
+.secciones-footer ul li a{
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+.Seguinos p{
+  font-weight: bolder;
+}
+footer .logo{
+text-align: right;
+}
